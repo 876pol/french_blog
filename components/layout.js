@@ -10,7 +10,7 @@ export default function Layout({ children }) {
             <main className='container mx-auto flex-1'>{children}</main>
             <footer className='bg-pink-600 mt-8 py-4'>
                 <div className='container mx-auto flex justify-center text-white text-lg font-medium'>
-                    Paul Chen
+                    Paul Chen | Github: https://github.com/876pol/french_blog
                 </div>
             </footer>
         </div>
