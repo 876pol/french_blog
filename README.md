@@ -1,8 +1,8 @@
 # french_blog
 
-This repository is a blog website created for my Grade 10 French class about "No et Moi" by Delphine de Vigan.
+A blog website about "No et Moi" by Delphine de Vigan. Created for my Grade 10 French class.
 
-It is hosted on [Vercel](https://vercel.com/) at <https://french-blog.vercel.app/>. Written with Next.js.
+It is hosted on [Vercel](https://vercel.com/) at <https://french-blog.vercel.app/>. Written with Next.js and Tailwind CSS.
 
 To clone this repository and host the site:
 
